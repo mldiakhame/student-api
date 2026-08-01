@@ -18,8 +18,12 @@
     <name>student-api</name>
     <description>API REST Gestion d'Etudiants -- TP Integration Continue Jenkins</description>
 
+<!--    <properties>-->
+<!--        <java.version>17</java.version>-->
+<!--    </properties>-->
     <properties>
-        <java.version>17</java.version>
+        <maven.compiler.source>23</maven.compiler.source>
+        <maven.compiler.target>23</maven.compiler.target>
     </properties>
 
     <dependencies>
@@ -89,6 +93,17 @@
                         </configuration>
                     </execution>
                 </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-checkstyle-plugin</artifactId>
+                <version>3.3.1</version>
+                <configuration>
+                    <configLocation>google_checks.xml</configLocation>
+                    <failsOnError>true</failsOnError>
+                    <consoleOutput>true</consoleOutput>
+                    <includeTestSourceDirectory>false</includeTestSourceDirectory>
+                </configuration>
             </plugin>
         </plugins>
     </build>

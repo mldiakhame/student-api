@@ -4,7 +4,7 @@ API REST Spring Boot pour la gestion d'étudiants — TP Intégration Continue a
 
 **Module** : Livraison Continue (2IDA2103) — Master 1 UNCHK  
 **Auteur** : Dr. Mouhamadou Lamine DIAKHAME
-
+**Auteur** : Etudiant MICDA Alpha DIALLO
 ## Prérequis
 
 - Java 17

@@ -1,5 +1,5 @@
-sn/uvs/studentapi/model/Student.class
-sn/uvs/studentapi/service/StudentService.class
-sn/uvs/studentapi/controller/StudentController.class
-sn/uvs/studentapi/StudentApiApplication.class
-sn/uvs/studentapi/repository/StudentRepository.class
+sn\uvs\studentapi\service\StudentService.class
+sn\uvs\studentapi\StudentApiApplication.class
+sn\uvs\studentapi\repository\StudentRepository.class
+sn\uvs\studentapi\model\Student.class
+sn\uvs\studentapi\controller\StudentController.class

@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: sn.uvs.studentapi.controller.StudentControllerTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.987 s -- in sn.uvs.studentapi.controller.StudentControllerTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.305 s -- in sn.uvs.studentapi.controller.StudentControllerTest
